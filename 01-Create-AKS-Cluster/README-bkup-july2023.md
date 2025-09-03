@@ -4,8 +4,6 @@
 - Understand about AKS Cluster
 - Discuss about Kubernetes Architecture from AKS Cluster perspective
 
-#adding this tine for testing
-
 ## Step-02: Create AKS Cluster
 - Create Kubernetes Cluster
 - **Basics**
