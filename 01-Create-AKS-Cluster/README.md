@@ -180,4 +180,3 @@ kubectl delete -f kube-manifests/
 
 ## Why Managed Identity when creating Cluster?
 - https://docs.microsoft.com/en-us/azure/aks/use-managed-identity
-## This for Test
